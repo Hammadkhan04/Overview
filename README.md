@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hammad khan</h1>
-<h3 align="center">IT Audit Enthusiast | IT Business Analytics | Machine Learning</h3>
+<h3 align="center">IT Business Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadkhan04&label=Profile%20views&color=0e75b6&style=flat" alt="hammadkhan04" /> </p>
 
 - 🌱 I’m currently learning **Business Analytics**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Agile/Scrum**
 
 - 📫 How to reach me **connect.hammadkhan@gmail.com**
 
